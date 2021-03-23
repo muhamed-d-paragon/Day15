@@ -1,0 +1,121 @@
+header {
+    margin: 5px;
+    margin-right: 10px;
+}
+
+footer {
+    margin: 5px;
+    margin-right: 10px;
+}
+
+#nav_bar {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  list-style-type: none;
+  margin-inline: 10px;
+  }
+
+.google-image {
+    display: block;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: fit-content;
+}
+
+.form-search {
+    display: block;
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    width: fit-content;
+}
+
+#form-search {
+    border-style: dotted;
+    border-radius: 10px;
+    border-width: 1px;
+    width: 500px;
+    height: 25px;
+    text-align: center;
+}
+
+.buttons {
+    text-align: center;
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    width: fit-content;
+    text-align: center;
+}
+
+footer {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    list-style-type: none;
+    margin-inline: 10px;
+};
+
+.footer-left {
+    display: inline-block;
+    text-align: left;
+    justify-self: left;
+    margin-right: 50%;
+}
+
+.footer-right {
+    display: inline-block;
+    text-align: right;
+    justify-self: right;
+    margin-left: 50%;
+}
+
+footer {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+    padding: 0, 20px, 20px;
+}
+
+.footer-left {
+    display: flex;
+    justify-content: flex-start;
+}
+.footer-right {
+    display: flex;
+    justify-content: flex-end;
+}
+
+#gmail {
+    margin-inline: 20px;
+}
+
+#images {
+    margin-inline: 20px;
+}
+#sign_in {
+      margin-inline: 20px;
+};
+
+#Advertising {
+    padding-left: 20px;
+}
+#Business {
+    padding-left: 20px;
+}
+#About {
+    padding-left: 20px;
+}
+#Privacy {
+    padding-right: 20px;
+}
+#Terms {
+    padding-right: 20px;
+}
+#Settings {
+    padding-right: 20px;
+}
